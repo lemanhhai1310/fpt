@@ -5,12 +5,15 @@
         <?php
         $data = array(
             array(
-                "src" => "images/Mask Group 8.png",
+                "src" => "images/Mask Group 8.jpg",
+                "src1" => "images/anhdoc/Anh DOC 2B.jpg",
             ),
         );
         foreach ($data as $k => $v): ?>
             <li>
-                <img src="<?= $v['src'] ?>" alt="" uk-cover>
+                <img class="uk-visible@s" src="<?= $v['src'] ?>" alt="" uk-cover>
+                <img class="uk-hidden@s" src="<?= $v['src1'] ?>" alt="" uk-cover>
+                <div class="uk-position-cover uk-hidden@s uk-overlay uk-overlay-primary"></div>
                 <div class="uk-position-center uk-position-small uk-text-center uk-light box2_lapdat" uk-scrollspy="target: > *; cls: uk-animation-slide-bottom; delay: 100">
                     <p class="uk-margin-remove">Xem không giới hạn</p>
                     <p class="uk-margin-remove">- Tiết kiệm chi phí</p>

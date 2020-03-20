@@ -3,11 +3,11 @@
         <?php
         $data = array(
             array(
-                "src" => "images/slider.png",
+                "src" => "images/slider.jpg",
                 "src1" => "images/anhdoc/Anh DOC 4.jpg",
             ),
             array(
-                "src" => "images/slider.png",
+                "src" => "images/slider.jpg",
                 "src1" => "images/anhdoc/Anh DOC 4.jpg",
             ),
         );
