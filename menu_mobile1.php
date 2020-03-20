@@ -8,6 +8,7 @@
                     array(
                         'title' => 'Trang chủ',
                         'mode' => '',
+                        'href' => '.',
                     ),
 //                    array(
 //                        'title' => 'Giới thiệu',
@@ -18,27 +19,32 @@
                     array(
                         'title' => 'Internet FPT',
                         'mode' => '',
+                        'href' => 'lapdat.php',
                     ),
                     array(
                         'title' => 'FPT Playbox',
                         'mode' => '',
+                        'href' => 'fpt-playbox.php',
                     ),
                     array(
                         'title' => 'Camera FPT',
                         'mode' => '',
+                        'href' => 'camera-fpt.php',
                     ),
                     array(
                         'title' => 'Tin tức',
                         'mode' => '',
+                        'href' => 'tintuc.php',
                     ),
                     array(
                         'title' => 'Liên hệ',
                         'mode' => '',
+                        'href' => 'contact.php',
                     ),
                 );
                 foreach ($data as $k1 => $v1) { ?>
                     <li class="uk-margin-remove <?= (isset($v1['active']) ? 'uk-active' : '') ?>">
-                        <a class="uk-padding-small uk-display-block" href="#">
+                        <a class="uk-padding-small uk-display-block" href="<?= $v1['href'] ?>">
                             <?= $v1['title'] ?>
                             <?php switch ($v1['mode']) {
                                 case 'live':
