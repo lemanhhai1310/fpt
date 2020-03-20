@@ -1,0 +1,59 @@
+.card1_news{
+  .uk-card-header{
+    border: none;
+  }
+  .uk-card-body{
+    .uk-card-title{
+      font-family: $font-Montserrat-Bold;
+      font-size: 14px;
+      margin-top: 0px;
+      a{
+        color: #000;
+      }
+    }
+    .desc{
+      color: #313131;
+      opacity: 0.5;
+    }
+  }
+}
+//======================================
+.news-title{
+  font-family: $font-Montserrat-SemiBold;
+  color: #313131;
+  font-size: 18px;
+}
+//======================================
+.news3{
+  font-size: 22px;
+  font-family: $font-Montserrat-SemiBold;
+  color: #000;
+}
+//======================================
+.news2{
+  .title{
+    font-family: $font-Montserrat-SemiBold;
+    @media (min-width: 960px) {
+      font-size: 22px;
+    }
+    a{
+      color: #000;
+    }
+  }
+}
+//======================================
+.news1{
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #000000);
+}
+//======================================
+.cms-title-h1 {
+  font-size: 27px;
+  font-family: $font-Montserrat-SemiBold;
+  color: #404041;
+}
+.cms-desc-1 {
+  font-family: $font-Montserrat-SemiBold;
+  color: #404041;
+  font-size: 13px;
+  line-height: 23px;
+}

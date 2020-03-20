@@ -1,0 +1,34 @@
+.slide_hover{
+  &:hover{
+    .uk-slidenav{
+      opacity: 1;
+      visibility: visible;
+      &.uk-position-center-left{
+        left: 15px;
+      }
+      &.uk-position-center-right{
+        right: 15px;
+      }
+    }
+  }
+}
+//======================================
+.uk-slidenav{
+  opacity: 0.45;
+  background-color: #000000;
+  //border-radius: 50%;
+  overflow: hidden;
+  svg{
+    transform: scale(0.7);
+  }
+  img{
+    .slide_hover &{
+      height: 35px;
+    }
+  }
+  .slide_hover &{
+    opacity: 0;
+    visibility: hidden;
+    transition: all .35s ease;
+  }
+}

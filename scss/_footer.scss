@@ -1,0 +1,105 @@
+#footer{
+  background-color: #2b2b2b;
+}
+//======================================
+.title{
+  a{
+    #footer &{
+      color: #ffffff;
+    }
+  }
+  #footer &{
+    font-family: $font-Montserrat-Regular;
+    font-size: 13px;
+    line-height: 1.2;
+    color: #ffffff;
+  }
+  .uk-light &{
+    color: #ffffff !important;
+  }
+  .box1_about &{
+    font-size: 19px;
+    font-family: $font-Montserrat-SemiBold;
+    position: relative;
+    padding-bottom: 15px;
+    color: #000;
+    &:after{
+      content: "";
+      position: absolute;
+      width: 150px;
+      height: 3px;
+      background-color: #000000;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      .uk-light &{
+        background-color: #1370b5;
+      }
+      #sumenh &{
+        background-color: #e57832;
+      }
+      .camera-about &{
+        background-color: #e57832;
+      }
+      .camera-ttct &{
+        background-color: #1370b5;
+      }
+      #sanpham &{
+        background-color: #1370b5;
+      }
+      .contact &{
+        background-color: #ffffff;
+      }
+      .goicuoc_camera &{
+        background-color: #21b553;
+      }
+    }
+  }
+}
+//======================================
+.uk-list{
+  >li{
+    >a{
+      #footer &{
+        color: #919191;
+      }
+    }
+  }
+}
+//======================================
+.logo_f{
+  img{
+    height: 45px;
+  }
+}
+//======================================
+.uk-icon-button{
+  .item &{
+    width: 20px;
+    height: 20px;
+    color: #2b2b2b;
+  }
+  .social_f &{
+    background-color: transparent !important;
+    border: 1px solid;
+    border-color: #ebebeb;
+    width: 30px;
+    height: 30px;
+  }
+}
+//======================================
+.item{
+  #footer &{
+    color: #919191;
+  }
+}
+//======================================
+.zalo{
+  background-color: #00acd4 !important;
+  img{
+    width: 28px !important;
+  }
+  .boximg-phone{
+    background-color: #00acd4 !important;
+  }
+}

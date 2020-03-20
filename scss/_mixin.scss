@@ -1,0 +1,19 @@
+@mixin uk-grid($i){
+  margin-left: -#{$i}px;
+  >*{
+    padding-left: #{$i}px;
+  }
+  .uk-grid-margin{
+    margin-top: #{$i}px;
+  }
+}
+@for $i from 0 through 145 {
+  .uk-grid-#{$i}-m{
+    @media (min-width: 960px) {
+      @include uk-grid($i);
+    }
+  }
+  .uk-grid-#{$i}{
+    @include uk-grid($i);
+  }
+}

@@ -1,0 +1,80 @@
+#header{
+
+}
+//======================================
+.uk-logo{
+  img{
+    #header &{
+      height: 45px;
+      @media (max-width: 960px) {
+        height: 35px;
+      }
+    }
+  }
+}
+//======================================
+.uk-navbar-center{
+  .uk-navbar-nav{
+    >li{
+      >a{
+        #header &{
+          font-family: $font-Montserrat-SemiBold;
+          color: #000;
+          text-transform: inherit;
+          font-size: 13px;
+          &.uk-open{
+            position: relative;
+            color: #fe8336;
+            &:before{
+              content: "";
+              width: 0;
+              height: 0;
+              border-left: 8px solid transparent;
+              border-right: 8px solid transparent;
+              border-bottom: 8px solid #ececec;
+              position: absolute;
+              bottom: 0;
+              left: 50%;
+              transform: translateX(-50%);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+//======================================
+.uk-navbar-toggle,
+.uk-navbar-item{
+  #header &{
+    @media (max-width: 960px) {
+      min-height: 60px;
+    }
+  }
+}
+//======================================
+.boximg-phone{
+  width: 41px;
+  height: 41px;
+  box-shadow: 0 7px 6px 0 rgba(0, 0, 0, 0.16);
+  border: solid 1px #ffffff;
+  background-color: #21b553;
+  img{
+    width: 22px;
+    .animate-phone &{
+      top: 25%;
+      left: 25%;
+      animation: 1s ease-in-out 0s normal none infinite running suntory-alo-circle-img-anim;
+    }
+  }
+}
+//======================================
+.btn-support-phone{
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  border-color: #ffffff;
+  background-color: #21b553 !important;
+  padding-right: 55px;
+  font-family: $font-Montserrat-SemiBold;
+  font-size: 13px;
+  color: #ffffff !important;
+}

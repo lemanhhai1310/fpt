@@ -1,0 +1,21 @@
+.btn1-contact{
+  box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.16);
+  border: solid 2px #ffffff;
+  background-color: #fe8336 !important;
+  text-transform: inherit;
+  font-family: $font-Montserrat-SemiBold;
+  font-size: 16px;
+}
+//======================================
+.box1-contact{
+  border: solid 1px #ffffff;
+  .uk-icon{
+    color: #ffffff;
+  }
+  .name{
+    font-family: $font-Montserrat-SemiBold;
+    font-size: 14px;
+    color: #ffffff;
+    margin-bottom: 5px;
+  }
+}

@@ -1,0 +1,57 @@
+.camera-title{
+  font-family: $font-Montserrat-Bold;
+  font-size: 20px;
+  color: #fe8336;
+}
+//======================================
+.camera4{
+  border: solid 1px #1370b5;
+  font-family: $font-Montserrat-SemiBold;
+  color: #000;
+  font-size: 14px;
+}
+//======================================
+.camera1{
+  span{
+    font-family: $font-Montserrat-SemiBold;
+    color: #000;
+  }
+}
+.camera2{
+  span{
+    font-family: $font-Montserrat-SemiBold;
+    color: #fe8336;
+  }
+}
+.camera3{
+  span{
+    font-family: $font-Montserrat-SemiBold;
+    color: #1370b5;
+  }
+}
+//======================================
+.table2{
+  thead{
+    tr{
+      th{
+        font-size: 14px;
+      }
+    }
+  }
+  tr{
+    th{
+      text-align: center;
+      background-color: #1370b5;
+      color: #ffffff;
+      font-family: $font-Montserrat-SemiBold;
+      text-transform: inherit;
+      border: 1px solid #d2d2d2;
+      font-size: 12px;
+      vertical-align: middle;
+    }
+    td{
+      border: solid 1px #d2d2d2;
+      font-size: 12px;
+    }
+  }
+}

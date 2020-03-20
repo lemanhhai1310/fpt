@@ -1,0 +1,80 @@
+.table1{
+  thead{
+    tr{
+      th{
+        text-transform: inherit;
+        background-color: #1370b5;
+        color: #ffffff;
+        border: solid 1px #d2d2d2;
+        text-align: center;
+        font-size: 16px;
+        font-family: $font-Montserrat-SemiBold;
+      }
+    }
+  }
+  tbody{
+    tr{
+      td{
+        border: solid 1px #d2d2d2;
+        font-family: $font-Montserrat-Regular;
+        color: #000;
+        font-size: 12px;
+        b{
+          font-size: 12px;
+          font-family: $font-Montserrat-SemiBold;
+        }
+      }
+    }
+  }
+}
+//======================================
+.box2_lapdat{
+  p{
+    font-family: $font-Montserrat-Bold;
+    color: #FFFFFF;
+    font-size: 15px;
+    @media (min-width: 960px) {
+      font-size: 17px;
+    }
+  }
+  .uk-button{
+    background-color: #e57832;
+    border-color: #e57832;
+    text-transform: inherit;
+    font-family: $font-Montserrat-SemiBold;
+    font-size: 13px;
+    @media (min-width: 960px) {
+      font-size: 15px;
+    }
+  }
+}
+//======================================
+.box1_lapdat{
+  box-shadow: 0 10px 35px 0 rgba(0, 0, 0, 0.16);
+  &.c1{
+    background-color: #e57832;
+  }
+  &.c2{
+    background-color: #21b553;
+  }
+  &.c3{
+    background-color: #1370b5;
+  }
+  &.c4{
+    background-color: #e90808;
+  }
+}
+//======================================
+.banggia1{
+  font-size: 12px;
+  font-family: $font-Montserrat-SemiBold;
+  //line-height: 1.5;
+  color: #1370b5;
+  .c1{
+    width: 5px;
+    height: 5px;
+    display: inline-block;
+    border: solid 4px #e57832;
+    background-color: #ffffff;
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="baf64d0d-0f86-4cad-b9d7-d5725a498ce1" name="fpt" url="http://104.197.85.49">
+        <fileTransfer host="104.197.85.49" port="22" rootFolder="/home/admin/web/cathtmlcss.net/public_html/themes/2020/03/fpt" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

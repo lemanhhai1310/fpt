@@ -1,0 +1,70 @@
+.box_left{
+  background: #1370b5;
+  @extend .box_genaral;
+}
+//======================================
+.box_right{
+  background: #fe8336;
+  @media (max-width: 960px) {
+    background: #1370b5;
+  }
+  @extend .box_genaral;
+}
+//======================================
+.box_genaral{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+//======================================
+.box1_register{
+  @media (max-width: 960px) {
+    padding: 0 !important;
+  }
+}
+//======================================
+.form_register{
+  .uk-textarea,
+  .uk-input{
+    color: #ffffff;
+    background-color: rgba(8, 8, 8, 0.08);
+    &::placeholder{
+      color: #ffffff;
+    }
+  }
+  .uk-input{
+
+  }
+  .uk-textarea{
+
+  }
+  .desc{
+    color: #ffffff;
+    font-size: 13px !important;
+  }
+
+}
+//======================================
+.btn-register{
+  font-family: $font-Montserrat-SemiBold;
+  text-transform: inherit;
+}
+//======================================
+.legen1{
+  font-size: 19px;
+  font-family: $font-Montserrat-SemiBold;
+  color: #ffffff;
+  padding-bottom: 15px;
+  @media (max-width: 640px) {
+    font-size: 4vw !important;
+  }
+  &:before{
+    content: "";
+    display: inline-block;
+    width: 104px;
+    height: 3px;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+}
