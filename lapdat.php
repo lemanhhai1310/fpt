@@ -121,7 +121,7 @@
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá mạng FPT cho Cá nhân, Sinh viên, Hộ gia đình</span>
         </div>
-        <div class="uk-margin-bottom">
+        <div class="uk-margin-bottom uk-overflow-auto">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>
@@ -181,7 +181,7 @@
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá các gói cước cho các Doanh nghiệp</span>
         </div>
-        <div class="uk-margin-bottom">
+        <div class="uk-margin-bottom uk-overflow-auto">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>
@@ -242,7 +242,7 @@
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá cước Internet và Truyền hình FPT</span>
         </div>
-        <div class="uk-margin-bottom">
+        <div class="uk-margin-bottom uk-overflow-auto">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>

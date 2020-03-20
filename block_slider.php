@@ -6,10 +6,10 @@
                 "src" => "images/slider.jpg",
                 "src1" => "images/anhdoc/Anh DOC 4.jpg",
             ),
-            array(
-                "src" => "images/slider.jpg",
-                "src1" => "images/anhdoc/Anh DOC 4.jpg",
-            ),
+//            array(
+//                "src" => "images/slider.jpg",
+//                "src1" => "images/anhdoc/Anh DOC 4.jpg",
+//            ),
         );
         foreach ($data as $k => $v): ?>
         <li>
