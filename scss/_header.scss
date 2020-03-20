@@ -22,6 +22,9 @@
           color: #000;
           text-transform: inherit;
           font-size: 13px;
+          &:hover{
+            color: #fe8336;
+          }
           &.uk-open{
             position: relative;
             color: #fe8336;
