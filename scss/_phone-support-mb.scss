@@ -1,0 +1,12 @@
+.phone-support-mb{
+  background: #f1f1f1e8;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 100vh;
+  &.uk-active{
+    top: inherit !important;
+  }
+}
+//======================================
