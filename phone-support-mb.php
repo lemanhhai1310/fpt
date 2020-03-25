@@ -1,4 +1,7 @@
-<div class="uk-padding-small uk-hidden@s phone-support-mb" uk-sticky="show-on-up: true;top: 100vh;offset: 100vh">
+<!--
+ uk-sticky="show-on-up: true;top: 100vh;offset: 100vh"
+-->
+<div class="uk-padding-small uk-hidden@s phone-support-mb uk-box-shadow-large">
     <div class="uk-container">
         <div class="uk-child-width-auto uk-flex-middle uk-flex-between" uk-grid>
             <div>
@@ -16,3 +19,24 @@
         </div>
     </div>
 </div>
+<script>
+    var btn = $('.phone-support-mb');
+    var position = $(window).scrollTop();
+
+    // should start at 0
+
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+        if(scroll > position) {
+            console.log('scrollDown');
+            btn.removeClass('uk-active');
+        } else {
+            console.log('scrollUp');
+            btn.addClass('uk-active');
+            if (scroll <= 600) {
+                btn.removeClass('uk-active');
+            }
+        }
+        position = scroll;
+    });
+</script>
