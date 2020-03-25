@@ -64,7 +64,7 @@
         <div class="uk-text-center uk-margin-large-bottom box1_about">
             <h2 class="title uk-text-uppercase">Thông tin chi tiết sản phẩm</h2>
         </div>
-        <div class="uk-background-default uk-overflow-auto">
+        <div class="uk-background-default uk-overflow-auto uk-visible@m">
             <table class="uk-table uk-table-divider uk-table-striped table2 uk-table-middle">
                 <thead>
                 <tr>
@@ -230,6 +230,244 @@
                 </tbody>
             </table>
         </div>
+        <div class="uk-margin-bottom uk-hidden@m">
+            <ul class="mb-gia-1" uk-accordion>
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">CAMERA FPT trong nhà</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Sử dụng</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chuyên sử dụng trong nhà</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chip</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chip cảm biến hình ảnh Sony IMX307</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Độ phân giải</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Độ phân giải Full HD</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hình ảnh</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chuẩn nén hình ảnh H265</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Thẻ nhớ</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hỗ trợ khe cắm thẻ nhớ</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hồng ngoại</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera3">
+                                        <span>- Hồng ngoại ban đêm 10m</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Kết nối Internet</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera3">
+                                        <span>- Kết nối internet từ cổng LAN và Wifi</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Bảo hành</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Bảo hành chính hãng FPT 1 năm</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Kháng nước</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera3">
+                                        <span>- Không</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">CAMERA FPT ngoài trời</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Sử dụng</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chuyên sử dụng ngoài trời</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chip</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chip cảm biến hình ảnh Sony IMX307</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Độ phân giải</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Độ phân giải Full HD</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hình ảnh</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Chuẩn nén hình ảnh H265</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Thẻ nhớ</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hỗ trợ khe cắm thẻ nhớ</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Hồng ngoại</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera2">
+                                        <span>- Hồng ngoại ban đêm 20m</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Kết nối Internet</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera2">
+                                        <span>- Kết nối internet từ cổng LAN</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Bảo hành</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Bảo hành chính hãng FPT 1 năm</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="camera1">
+                                        <span>- Kháng nước</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <div class="camera2">
+                                        <span>- Chuẩn kháng nước IP66 và nhiệt độ 75°.</span>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </div>
 </div>
 <div class="uk-section goicuoc_camera">
@@ -237,7 +475,7 @@
         <div class="uk-text-center uk-margin-large-bottom box1_about">
             <h2 class="title uk-text-uppercase">Giá cước Dịch vụ Cloud Camera</h2>
         </div>
-        <div class="uk-overflow-auto">
+        <div class="uk-overflow-auto uk-visible@m">
             <table class="uk-table uk-table-divider table2 uk-table-middle">
                 <thead>
                 <tr>
@@ -519,6 +757,348 @@
                 </tr>
                 </tbody>
             </table>
+        </div>
+        <div class="uk-margin-bottom uk-hidden@m mb-gia-2">
+            <ul class="mb-gia-1" uk-accordion="multiple: true">
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">Khách hàng ngoại mạng (chưa dùng Internet FPT)</a>
+                    <div class="uk-accordion-content">
+                        <div class="uk-margin">
+                            <div class="camera1 uk-margin-small">
+                                <span>1.</span> Thiết bị khuyến mãi giảm 100.000 VNĐ/ thiết bị
+                                Outdoor (Ngoài trời) còn: 1.300.000 VNĐ/ thiết bị (Gồm VAT)
+                                Indoor (Trong nhà) còn: 1.200.000 VNĐ/ thiết bị (Gồm VAT)
+                            </div>
+                            <div class="camera1 uk-margin-small">
+                                <span>2.</span> Dịch vụ triển khai: 110.000 VNĐ/ thiết bị (Tặng kèm 10m LAN trên một thiết bị).
+                            </div>
+                            <div class="camera1 uk-margin-small">
+                                <span>3.</span> Dịch vụ lưu trữ Cloud: Chu kỳ <span>1 block = 30 ngày</span>
+                            </div>
+                        </div>  
+                        <div>
+                            <div class="hai-mb">
+                                <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                    <thead>
+                                    <tr>
+                                        <th>Dịch vụ Cloud</th>
+                                        <th>
+                                            <div uk-form-custom="target: > * > span:first-child">
+                                                <select id="clould1">
+                                                    <option value="0" selected>Cloud Camera</option>
+                                                    <option value="1">1 Day</option>
+                                                    <option value="2">Cloud Camera 3 Day</option>
+                                                    <option value="3">Cloud Camera 7 Day</option>
+                                                </select>
+                                                <span class="">
+                                                    <span></span>
+                                                    <span uk-icon="icon: triangle-down"></span>
+                                                </span>
+                                            </div>
+                                        </th>
+                                    </tr>
+                                    </thead>
+                                </table>
+                            </div>  
+                            <ul class="uk-switcher khachhangngoai-table">
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">30.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">60.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>120.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">120.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>240.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small"></td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small"></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small"></td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">45.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">90.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>180.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">180.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>240.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">80.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">160.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>320.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">320.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>640.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">Khách hàng hiện hữu dùng Internet FPT & bán mới combo Internet - Camera</a>
+                    <div class="uk-accordion-content">
+                        <div class="uk-margin">
+                            <div class="camera1 uk-margin-small">
+                                <span>1.</span> Thiết bị khuyến mãi giảm 100.000 VNĐ/ thiết bị
+                                Outdoor (Ngoài trời) còn: 1.300.000 VNĐ/ thiết bị (Gồm VAT)
+                                Indoor (Trong nhà) còn: 1.200.000 VNĐ/ thiết bị (Gồm VAT)
+                            </div>
+                            <div class="camera1 uk-margin-small">
+                                <span>2.</span> Dịch vụ triển khai: Miễn phí
+                                <div>Miễn phí: 10m LAN trên một thiết bị, nhân công triển khai hợp đồng</div>
+                            </div>
+                            <div class="camera1 uk-margin-small">
+                                <span>3.</span> Dịch vụ lưu trữ Cloud: Chu kỳ <span>1 block = 30 ngày</span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="hai-mb">
+                                <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                    <thead>
+                                    <tr>
+                                        <th>Dịch vụ Cloud</th>
+                                        <th>
+                                            <div uk-form-custom="target: > * > span:first-child">
+                                                <select id="clould2">
+                                                    <option value="0" selected>Cloud Camera 1 Day</option>
+                                                    <option value="1">Cloud Camera 2 Day</option>
+                                                    <option value="2">Cloud Camera 3 Day</option>
+                                                </select>
+                                                <span class="">
+                                                    <span></span>
+                                                    <span uk-icon="icon: triangle-down"></span>
+                                                </span>
+                                            </div>
+                                        </th>
+                                    </tr>
+                                    </thead>
+                                </table>
+                            </div>  
+                            <ul class="uk-switcher khachhangtrong-table">
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">30.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">60.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>120.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">120.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>240.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">45.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">90.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>180.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">180.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>240.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <table class="uk-table uk-table-divider table2 uk-table-middle uk-margin-remove">
+                                        <tbody>
+                                        <tr>
+                                            <td colspan="2"><b>giá bán VNĐ/block</b></td>
+                                            <td class="uk-width-small">80.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 6 block</th>
+                                            <td>Giảm giá 2 block</td>
+                                            <td class="uk-width-small">160.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>320.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <th rowspan="2" class="uk-table-shrink">Chính sách khuyến mãi trả trước 12 block</th>
+                                            <td>Giảm giá 4 block</td>
+                                            <td class="uk-width-small">320.000vnđ</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Giá KM</td>
+                                            <td class="uk-width-small">
+                                                <div class="camera2">
+                                                    <span>640.000vnđ</span>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
         </div>
     </div>
 </div>

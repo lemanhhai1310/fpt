@@ -19,6 +19,7 @@
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->
+<!-- 
 <div id="fb-root"></div>
 <script>
     window.fbAsyncInit = function () {
@@ -36,13 +37,15 @@
         js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-
+-->
 <!-- Your customer chat code -->
+<!--
 <div class="fb-customerchat"
      attribution=setup_tool
      page_id="2428809380682169"
      logged_in_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi"
      logged_out_greeting="Bạn cần cắt HTML/CSS? Hãy chat ngay với chúng tôi">
 </div>
+-->
 <div id="app" class="uk-height-viewport uk-offcanvas-content uk-overflow-hidden">
 <?php include('menu_mobile1.php'); ?>

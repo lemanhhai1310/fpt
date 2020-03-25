@@ -48,6 +48,19 @@
       border: 1px solid #d2d2d2;
       font-size: 12px;
       vertical-align: middle;
+      &:first-child{
+        .hai-mb &{
+          border-left: none;
+        }
+      }
+      &:last-child{
+        .hai-mb &{
+          border-right: none;
+        }
+      }
+      .hai-mb &{
+        border-bottom: none; 
+      }
     }
     td{
       border: solid 1px #d2d2d2;

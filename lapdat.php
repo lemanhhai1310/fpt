@@ -121,7 +121,7 @@
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá mạng FPT cho Cá nhân, Sinh viên, Hộ gia đình</span>
         </div>
-        <div class="uk-margin-bottom uk-overflow-auto">
+        <div class="uk-margin-bottom uk-overflow-auto uk-visible@m">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>
@@ -177,11 +177,112 @@
                 </tbody>
             </table>
         </div>
+        <div class="uk-margin-bottom uk-hidden@m">
+            <ul class="mb-gia-1" uk-accordion>
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 35</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>35Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>230.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>220.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>1.338.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>2.760.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 50</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>50Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>245.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>110.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>1.470.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>2.940.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 65</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>65Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>300.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>110.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>1.800.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>3.600.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+            <div>
+                <div class="uk-margin"><b>Lưu ý:</b> Giá cước đã bao gồm thuế VAT 10%</div>
+                <div><b>Ưu đãi:</b></div>
+                <div>
+                    <div>- Trang bị Modem Wifi 4 Cổng, 2 băng tầng cực khủng phù hợp cho mọi gia đình.</div>
+                    <div>- Quà Tặng hấp dẫn cho khách hàng đăng ký mới.</div>
+                    <div>- Trả trước 6 tháng: Miễn phí lắp đặt + tặng 1 tháng cước.</div>
+                    <div>- Trả trước 12 tháng: Miễn phí lắp đặt + tặng 2 tháng cước.</div>
+                </div>
+            </div>
+        </div>
         <div class="uk-margin-small banggia1 uk-flex uk-flex-middle">
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá các gói cước cho các Doanh nghiệp</span>
         </div>
-        <div class="uk-margin-bottom uk-overflow-auto">
+        <div class="uk-margin-bottom uk-overflow-auto uk-visible@m">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>
@@ -238,11 +339,113 @@
                 </tbody>
             </table>
         </div>
+        <div class="uk-margin-bottom uk-hidden@m">
+            <ul class="mb-gia-1" uk-accordion>
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 100</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>100Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Băng thông quốc tế</b></td>
+                                <td><b>10.816 Kbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>880.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>1.100.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- IP Tĩnh</b></td>
+                                <td><b>Có</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 150</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>150Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Băng thông quốc tế</b></td>
+                                <td><b>12.600 Kbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>2.200.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>1.100.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- IP Tĩnh</b></td>
+                                <td><b>Có</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">GÓI SUPER 200</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>200Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Băng thông quốc tế</b></td>
+                                <td><b>18.904 Kbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>8.800.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>1.100.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- IP Tĩnh</b></td>
+                                <td><b>Có</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+            <div>
+                <div class="uk-margin"><b>Lưu ý:</b> Giá cước đã bao gồm thuế VAT 10%</div>
+                <div><b>Ưu đãi:</b></div>
+                <div>
+                    <div>- Cam kết băng thông quốc tế</div>
+                    <div>- Trang bị thiết bị chuẩn với gói dịch vụ cung cấp.</div>
+                    <div>- Trả trước 6 tháng: Miễn phí hòa mạng + tặng 1 tháng cước.</div>
+                    <div>- Khắc phục sự cố trong vòng 12H.</div>
+                    <div>- Tư vấn giải pháp và hỗ trợ 24/24.</div>
+                </div>
+            </div>
+        </div>
         <div class="uk-margin-small banggia1 uk-flex uk-flex-middle">
             <span class="uk-margin-small-right c1 uk-border-circle"></span>
             <span class="uk-text-middle">Bảng giá cước Internet và Truyền hình FPT</span>
         </div>
-        <div class="uk-margin-bottom uk-overflow-auto">
+        <div class="uk-margin-bottom uk-overflow-auto uk-visible@m">
             <table class="uk-table uk-table-divider table1">
                 <thead>
                 <tr>
@@ -297,6 +500,107 @@
                 </tr>
                 </tbody>
             </table>
+        </div>
+        <div class="uk-margin-bottom uk-hidden@m">
+            <ul class="mb-gia-1" uk-accordion>
+                <li class="uk-open">
+                    <a class="uk-accordion-title" href="#">COMBO S35</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>35Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>235.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>330.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>1.410.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>2.820.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">COMBO S50</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>50Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>255.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>440.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>1.530.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>3.060.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+                <li>
+                    <a class="uk-accordion-title" href="#">COMBO S65</a>
+                    <div class="uk-accordion-content">
+                        <table class="uk-table uk-table-divider table1">
+                            <tbody>
+                            <tr>
+                                <td><b>- Băng thông</b></td>
+                                <td><b>65Mbps</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Giá cước/tháng</b></td>
+                                <td><b>350.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Phí hòa mạng trả sau</b></td>
+                                <td><b>440.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 6 tháng</b></td>
+                                <td><b>2.100.000vnđ</b></td>
+                            </tr>
+                            <tr>
+                                <td><b>- Trả trước 12 tháng</b></td>
+                                <td><b>4.200.000vnđ</b></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </li>
+            </ul>
+            <div>
+                <div class="uk-margin"><b>Lưu ý:</b> Giá cước đã bao gồm thuế VAT 10%</div>
+                <div><b>Ưu đãi:</b></div>
+                <div>
+                    <div>- Trang bị Modem Wifi 4 cổng</div>
+                    <div>- Tặng  đầu thu HD Box 4K thông minh phù hợp cho mọi Tivi nhà bạn, biến Tivi thường thành Tivi thông minh.</div>
+                    <div>- Trả trước 6 tháng: Miễn phí lắp đặt + tặng 1 tháng cước.</div>
+                    <div>- Trả trước 12 tháng: Miễn phí lắp đặt + tặng 2 tháng cước.</div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
